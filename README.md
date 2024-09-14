@@ -1,3 +1,22 @@
+
+# Hi there 👋  
+I'm Niloufar Abbasi
+
+Masters student of Electrical Engineering, Digital Systems at Sharif University of Technology
+Researcher at Artificial Creatures Lab
+
+
+I am interested in Machine Learning,, Deep Learning, Meta Learning and Natural Language Processing. Currently, I am working on efficient ways to classify documents.
+
+You can see more about me at https://www.linkedin.com/in/niloufarabbasi
+
+---
+
+![Profile Stats](https://github-readme-stats.vercel.app/api?username=Nilabbasi&show_icons=true&theme=radical)  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Nilabbasi&theme=dracula&margin-w=15)
+
+
+
 ## Hi there 👋
 
 <!--
