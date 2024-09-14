@@ -1,6 +1,7 @@
 
-# Hi there 👋  
-I'm Niloufar Abbasi
+<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+<h3 align="center">I'm Niloufar Abbasi</h3>
+
 
 Masters student of Electrical Engineering, Digital Systems at Sharif University of Technology
 Researcher at Artificial Creatures Lab
