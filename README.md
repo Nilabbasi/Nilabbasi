@@ -7,9 +7,6 @@
 📚 Currently working on **efficient document classification**  
 🌐 Find me on [LinkedIn](https://www.linkedin.com/in/niloufarabbasi)
 
----
-
-
 <!-- Centered Profile Stats in a grayscale theme -->
 <div align="center">
 
@@ -20,3 +17,5 @@
 -->
 
 </div>
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Nilabbasi)
