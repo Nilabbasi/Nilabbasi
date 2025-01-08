@@ -7,8 +7,8 @@
 📚 Currently working on **efficient document classification**  
 🌐 Find me on [LinkedIn](https://www.linkedin.com/in/niloufarabbasi)  
 🌐 You can explore my personal website using either of these links:  
-- **[Sharif University Academic Website](https://ee.sharif.edu/~niloufar_abbasi/)**  
-- **[GitHub Personal Website](https://nilabbasi.github.io/)**  
+- [Sharif University Academic Website](https://ee.sharif.edu/~niloufar_abbasi/) 
+- [GitHub Personal Website](https://nilabbasi.github.io/) 
 (Both links lead to the same content and showcase my work.)
 
 
