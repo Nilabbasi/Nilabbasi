@@ -6,7 +6,11 @@
 💻 Passionate about **Machine Learning**, **Deep Learning**, **Meta Learning**, and **Natural Language Processing**  
 📚 Currently working on **efficient document classification**  
 🌐 Find me on [LinkedIn](https://www.linkedin.com/in/niloufarabbasi)  
-🌐 Check out [my personal website](https://nilabbasi.github.io)
+🌐 You can explore my personal website using either of these links:  
+- **[Sharif University Academic Website](https://ee.sharif.edu/~niloufar_abbasi/)**  
+- **[GitHub Personal Website](https://nilabbasi.github.io/)**  
+(Both links lead to the same content and showcase my work.)
+
 
 <!-- Centered Profile Stats in a grayscale theme -->
 <div align="center">
