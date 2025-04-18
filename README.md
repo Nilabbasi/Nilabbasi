@@ -1,17 +1,11 @@
 <h1 align="center" style="font-size: 48px;">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"/></h1>
 <h3 align="center" style="font-size: 28px;">I'm Niloufar Abbasi</h3>
 
-🎓 **Masters student** of Electrical Engineering at Sharif University of Technology  
-🔬 **Researcher** at [Artificial Creatures Lab](https://ee.sharif.edu/~acl/index.html)  
-💻 Passionate about **Machine Learning**, **Deep Learning**, **Meta Learning**, and **Natural Language Processing**  
-📚 Currently working on **efficient document classification**  
-🌐 Find me on [LinkedIn](https://www.linkedin.com/in/niloufarabbasi)  
-🌐 You can explore my personal website using either of these links:  
-- [Sharif University Academic Website](https://ee.sharif.edu/~niloufar_abbasi/) 
-- [GitHub Personal Website](https://nilabbasi.github.io/)
-  
-(Both links lead to the same content and showcase my work.)
-
+🎓 **M.Sc. student** in Electrical Engineering at Sharif University of Technology  
+💻 Passionate about research at the intersection of Computer Science and Healthcare  
+📚 Currently working on **efficient document classification** and on identifying differences between **AI-generated and human-written texts**  
+🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/niloufarabbasi)  
+🌐 Learn more on my [Sharif University academic page](https://ee.sharif.edu/~niloufar_abbasi/)
 
 <!-- Centered Profile Stats in a grayscale theme -->
 <div align="center">
